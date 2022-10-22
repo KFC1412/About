@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KFC1412
 - 👀 I’m interested in PC
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by2312@qq.com
 
